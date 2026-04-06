@@ -38,10 +38,14 @@ class SemanticExtractor {
       try {
         const batchEvents = await this.processBatch(batch);
         this.events.push(...batchEvents);
-        this.stats.messagesWithEvents += batch.filter(m => 
+        this.stats.messagesWithEvents += batch.filter(m =>
           batchEvents.some(e => e.source_message_id === m.message_id)
         ).length;
         this.stats.apiCalls++;
+        // Pace requests: 2s between batches to avoid rate limits
+        if (i + this.batchSize < batches.length * this.batchSize) {
+          await new Promise(r => setTimeout(r, 2000));
+        }
       } catch (error) {
         console.error(`❌ Error processing batch ${i + 1}:`, error.message);
         // Continue with next batch

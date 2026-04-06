@@ -13,31 +13,29 @@ class GroqClient {
     }
   }
 
-  async chat(messages, temperature = 0.1) {
-    try {
-      const response = await axios.post(
-        GROQ_API_URL,
-        {
-          model: this.model,
-          messages: messages,
-          temperature: temperature,
-          max_tokens: 4096,
-        },
-        {
-          headers: {
-            'Authorization': `Bearer ${this.apiKey}`,
-            'Content-Type': 'application/json',
-          },
+  async chat(messages, temperature = 0.1, retries = 5) {
+    for (let attempt = 0; attempt < retries; attempt++) {
+      try {
+        const response = await axios.post(
+          GROQ_API_URL,
+          { model: this.model, messages, temperature, max_tokens: 4096 },
+          { headers: { 'Authorization': `Bearer ${this.apiKey}`, 'Content-Type': 'application/json' }, timeout: 60000 }
+        );
+        return response.data.choices[0].message.content;
+      } catch (error) {
+        if (error.response?.status === 429) {
+          const wait = Math.max(parseInt(error.response.headers['retry-after'] || '20', 10), 20) * 1000;
+          console.log(`\n   ⏳ Rate limited, waiting ${wait/1000}s...`);
+          await new Promise(r => setTimeout(r, wait));
+        } else {
+          const msg = error.response
+            ? `Groq API Error: ${error.response.status} - ${error.response.data.error?.message || error.message}`
+            : `Groq API Error: ${error.message}`;
+          throw new Error(msg);
         }
-      );
-
-      return response.data.choices[0].message.content;
-    } catch (error) {
-      if (error.response) {
-        throw new Error(`Groq API Error: ${error.response.status} - ${error.response.data.error?.message || error.message}`);
       }
-      throw new Error(`Groq API Error: ${error.message}`);
     }
+    throw new Error('Groq rate limit: max retries exceeded');
   }
 
   getModel() {
