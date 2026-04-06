@@ -1,10 +1,10 @@
 # FinitePaths-POC
 
-Proof of Concept project for FinitePaths application.
+Proof of Concept projects for FinitePaths application.
 
 ## Projects
 
-### FinitePath-ExpertiseGraph
+### 1. FinitePath-ExpertiseGraph
 Privacy-first expertise graph using Neo4j.
 
 **Location:** `finitepath-expertise-graph/`
@@ -15,24 +15,27 @@ Privacy-first expertise graph using Neo4j.
 3. Run `finitepath-expertise-graph/setup.cql` in Neo4j Browser
 4. Run example queries from `finitepath-expertise-graph/queries.cql`
 
-**Key Features:**
-- Privacy-scoped events (no global knowledge leakage)
-- Dynamic expertise computation
-- VisibilityScope nodes enforce access control
-- Evidence-backed knowledge with provenance
+### 2. Datastorage Service
+REST API service for storing chat messages in PostgreSQL.
 
-**Schema:**
-- User, Conversation, Message, Event, Topic, VisibilityScope nodes
-- All edges carry privacy context via HAS_SCOPE relationships
-- NO global HAS_EXPERTISE edges (computed dynamically only)
+**Location:** `datastorage-service/`
+
+**Setup:**
+1. Create PostgreSQL database: `finitepaths`
+2. Install dependencies: `npm install`
+3. Configure environment: `cp .env.example .env`
+4. Run migrations: `npm run migrate`
+5. Start server: `npm start`
+
+**API Endpoints:**
+- `POST /api/conversations` - Create conversation
+- `GET /api/conversations` - List user's conversations
+- `POST /api/messages` - Send message
+- `GET /api/messages/conversations/:id/messages` - Get messages (paginated)
+
+**Documentation:** `datastorage-service/README.md`
 
 ## Getting Started
 
-1. Install Neo4j Desktop from https://neo4j.com/download/
-2. Create a new database named `FinitePath-ExpertiseGraph`
-3. Run the setup script to populate sample data
-4. Explore privacy-safe query patterns
-
-## Documentation
-
-See individual project folders for detailed documentation.
+1. Install prerequisites (Node.js, PostgreSQL, Neo4j)
+2. Set up each service following the instructions in their respective READMEs
