@@ -1,0 +1,93 @@
+[
+  {
+    "message_id": "msg_001",
+    "conversation_id": "conv_europe",
+    "sender_id": "user_A",
+    "text": "I'm planning a trip to Europe this summer with my family. Any tips or must-see places?",
+    "timestamp": "2024-01-15T10:30:00Z"
+  },
+  {
+    "message_id": "msg_002",
+    "conversation_id": "conv_europe",
+    "sender_id": "user_B",
+    "text": "I've traveled to Italy and France. Happy to share recommendations! Italy was amazing - especially Rome and Florence. The Colosseum is a must-see.",
+    "timestamp": "2024-01-15T11:00:00Z"
+  },
+  {
+    "message_id": "msg_003",
+    "conversation_id": "conv_europe",
+    "sender_id": "user_C",
+    "text": "I'll book the Airbnb in Prague! Has anyone been there?",
+    "timestamp": "2024-01-15T14:00:00Z"
+  },
+  {
+    "message_id": "msg_004",
+    "conversation_id": "conv_health",
+    "sender_id": "user_A",
+    "text": "Can anyone suggest a good pediatrician near Downtown Austin for a 2-year-old?",
+    "timestamp": "2024-01-16T09:00:00Z"
+  },
+  {
+    "message_id": "msg_005",
+    "conversation_id": "conv_health",
+    "sender_id": "user_D",
+    "text": "Dr. Kim is the best pediatrician in Austin! My kids actually look forward to dentist visits now. Call Monday morning - they release slots weekly.",
+    "timestamp": "2024-01-16T09:30:00Z"
+  },
+  {
+    "message_id": "msg_006",
+    "conversation_id": "conv_home",
+    "sender_id": "user_A",
+    "text": "Looking for a reliable home contractor for a kitchen remodel. Any recommendations?",
+    "timestamp": "2024-01-17T10:00:00Z"
+  },
+  {
+    "message_id": "msg_007",
+    "conversation_id": "conv_home",
+    "sender_id": "user_E",
+    "text": "Carlos did our kitchen last year. Excellent work, on time, and fair pricing. I can DM you his contact.",
+    "timestamp": "2024-01-17T10:30:00Z"
+  },
+  {
+    "message_id": "msg_008",
+    "conversation_id": "conv_parenting",
+    "sender_id": "user_F",
+    "text": "What's the best way to teach a 6-year-old to read? Apps, books, or tutors?",
+    "timestamp": "2024-01-18T08:00:00Z"
+  },
+  {
+    "message_id": "msg_009",
+    "conversation_id": "conv_parenting",
+    "sender_id": "user_G",
+    "text": "We used the Reading Rainbow app and it worked great! Also, regular library visits helped a lot.",
+    "timestamp": "2024-01-18T08:30:00Z"
+  },
+  {
+    "message_id": "msg_010",
+    "conversation_id": "conv_restaurants",
+    "sender_id": "user_H",
+    "text": "Need restaurant recommendations for a first date in Austin. Looking for something romantic but not too expensive.",
+    "timestamp": "2024-01-19T18:00:00Z"
+  },
+  {
+    "message_id": "msg_011",
+    "conversation_id": "conv_restaurants",
+    "sender_id": "user_I",
+    "text": "Try Odd Duck! Great outdoor seating, unique menu, and not too pricey. Perfect for a date!",
+    "timestamp": "2024-01-19T18:15:00Z"
+  },
+  {
+    "message_id": "msg_012",
+    "conversation_id": "conv_tech",
+    "sender_id": "user_J",
+    "text": "What's the best laptop for a computer science student? Budget around $1000.",
+    "timestamp": "2024-01-20T09:00:00Z"
+  },
+  {
+    "message_id": "msg_013",
+    "conversation_id": "conv_tech",
+    "sender_id": "user_K",
+    "text": "Lenovo ThinkPad all the way! Great keyboard, Linux friendly, and very durable. I've had mine for 4 years.",
+    "timestamp": "2024-01-20T09:30:00Z"
+  }
+]
