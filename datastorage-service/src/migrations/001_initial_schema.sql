@@ -1,5 +1,5 @@
 -- ============================================================
--- FinitePaths Datastorage Schema
+-- Deju Datastorage Schema
 -- Raw Conversation Store (Immutable)
 -- ============================================================
 

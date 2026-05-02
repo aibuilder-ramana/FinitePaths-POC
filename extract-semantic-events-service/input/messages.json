@@ -1,0 +1,884 @@
+[
+  {
+    "message_id": "a20a85f9-5f61-4aea-86d0-34e7a8f06c68",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_18",
+    "text": "Anyone have a go-to weeknight pasta recipe that's not just spaghetti bolognese?",
+    "timestamp": "2024-04-01T08:07:00.000Z"
+  },
+  {
+    "message_id": "6f6fccac-e623-468d-b348-565a9c7e015e",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_11",
+    "text": "Cacio e pepe takes 15 minutes and is absolutely divine. Just pasta, pecorino, black pepper. Technique matters.",
+    "timestamp": "2024-04-01T08:26:00.000Z"
+  },
+  {
+    "message_id": "d75f967e-3276-4568-9dde-a7bc8a654c70",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_01",
+    "text": "Agreed on cacio e pepe! The trick is reserving a full cup of pasta water and adding it slowly.",
+    "timestamp": "2024-04-01T08:35:00.000Z"
+  },
+  {
+    "message_id": "82ee90d5-5064-40d9-a7c5-6dc847fa63fb",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_15",
+    "text": "I've been obsessed with one-pan chicken thighs lately. Season well, sear skin-down, finish in oven at 425 for 20 min.",
+    "timestamp": "2024-04-01T08:51:00.000Z"
+  },
+  {
+    "message_id": "4f15c451-0274-4263-9b07-6c51c2836c94",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_03",
+    "text": "For meal prep Sundays: roasted sheet pan veggies + grains + a protein. Mix and match all week.",
+    "timestamp": "2024-04-01T09:09:00.000Z"
+  },
+  {
+    "message_id": "5935703e-c3c2-414c-ba02-eac792b2a32b",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_18",
+    "text": "How do you guys feel about cast iron? I've been avoiding it because of the 'seasoning' maintenance.",
+    "timestamp": "2024-04-01T09:25:00.000Z"
+  },
+  {
+    "message_id": "b122780f-7b9e-427a-97a6-68631a89f2cc",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_01",
+    "text": "Cast iron is life-changing once it's seasoned. I haven't used non-stick in 3 years.",
+    "timestamp": "2024-04-01T09:34:00.000Z"
+  },
+  {
+    "message_id": "406f70d1-7230-454b-8152-b6666b54509f",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_11",
+    "text": "For baking I use a Dutch oven for sourdough — gives it that bakery crust.",
+    "timestamp": "2024-04-01T09:43:00.000Z"
+  },
+  {
+    "message_id": "d81510dc-ba1b-4686-b022-f4d2b58c8311",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_15",
+    "text": "My sourdough starter is 2 years old and I treat it like a pet. Highly recommend getting into sourdough.",
+    "timestamp": "2024-04-01T09:48:00.000Z"
+  },
+  {
+    "message_id": "6dd920a1-9123-457c-9b7d-47fa5e726241",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_03",
+    "text": "Any good YouTube channels for learning knife skills? Mine are terrible.",
+    "timestamp": "2024-04-01T09:53:00.000Z"
+  },
+  {
+    "message_id": "a1bfb162-9387-4d65-bf49-54e842b339a7",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_18",
+    "text": "Joshua Weissman and Internet Shaquille on YouTube for cooking fundamentals. Both are incredible.",
+    "timestamp": "2024-04-01T10:04:00.000Z"
+  },
+  {
+    "message_id": "4c21bfbd-1382-4337-8345-974427a8f01a",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_01",
+    "text": "Salt Fat Acid Heat by Samin Nosrat changed how I think about cooking entirely.",
+    "timestamp": "2024-04-01T10:20:00.000Z"
+  },
+  {
+    "message_id": "da088bda-402b-442a-b98e-a297eaaa7da9",
+    "conversation_id": "233d4097-19ae-46d2-8e95-5b6ea3a5ae0f",
+    "sender_id": "user_11",
+    "text": "Also The Food Lab by J. Kenji López-Alt is the science-based cooking bible.",
+    "timestamp": "2024-04-01T10:33:00.000Z"
+  },
+  {
+    "message_id": "e5a56824-c663-47d4-913e-e91523260c2e",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_03",
+    "text": "Anyone have thoughts on Pilates vs yoga for core strength? I teach Pilates but curious about others' experience.",
+    "timestamp": "2024-04-03T08:20:00.000Z"
+  },
+  {
+    "message_id": "3d2a13ec-d508-4bf2-bcbc-334b72879b64",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_17",
+    "text": "As a nurse I recommend both but for different reasons. Yoga for stress, Pilates for functional strength.",
+    "timestamp": "2024-04-03T08:25:00.000Z"
+  },
+  {
+    "message_id": "5f04f34f-6d6e-4728-8923-33f4a19c8fa3",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_06",
+    "text": "I cycle weekends but trying to add strength training. Any beginner program recommendations?",
+    "timestamp": "2024-04-03T08:41:00.000Z"
+  },
+  {
+    "message_id": "15452009-4911-405f-9b40-72b37649869e",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_14",
+    "text": "Starting Strength or StrongLifts 5x5 for beginners — simple, effective, compound movements only.",
+    "timestamp": "2024-04-03T08:47:00.000Z"
+  },
+  {
+    "message_id": "023b5be8-f813-445e-8332-c69f1ecd7230",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_16",
+    "text": "I've been doing freeletics since I travel constantly. No equipment, adapts to your level.",
+    "timestamp": "2024-04-03T08:58:00.000Z"
+  },
+  {
+    "message_id": "4cf4961a-5a22-4646-97ee-dafa3f9744e6",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_03",
+    "text": "Zone 2 cardio is so underrated. 45 mins at conversational pace, 3x a week. Incredible for longevity.",
+    "timestamp": "2024-04-03T09:05:00.000Z"
+  },
+  {
+    "message_id": "77e1ee33-25cd-4847-a5ad-9c30287b3563",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_17",
+    "text": "100% on zone 2. As a nurse I see what lack of cardio does long-term. Even walking counts.",
+    "timestamp": "2024-04-03T09:21:00.000Z"
+  },
+  {
+    "message_id": "d531285b-ee56-4621-aade-a0dcc7001210",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_06",
+    "text": "How are people tracking sleep and recovery? Garmin or Whoop worth it?",
+    "timestamp": "2024-04-03T09:30:00.000Z"
+  },
+  {
+    "message_id": "5efd87b8-9683-40f3-b96c-a584c38a8f98",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_14",
+    "text": "Garmin Forerunner 265 is the sweet spot — accurate, battery life is great, not overpriced.",
+    "timestamp": "2024-04-03T09:42:00.000Z"
+  },
+  {
+    "message_id": "01c863b4-00b1-4c06-bbe5-d630db779e4d",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_16",
+    "text": "I use Oura ring. Sleep data is accurate and actionable. Worth it if you're serious about recovery.",
+    "timestamp": "2024-04-03T10:01:00.000Z"
+  },
+  {
+    "message_id": "d847affe-fee6-4c75-beda-a89e4432ce49",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_03",
+    "text": "Protein intake — how much are people actually hitting? I struggle to get 100g/day.",
+    "timestamp": "2024-04-03T10:07:00.000Z"
+  },
+  {
+    "message_id": "e476ead3-de3c-457b-83f1-dffa3980611e",
+    "conversation_id": "69fcb054-046a-4ee1-b167-b56fbe51a9a8",
+    "sender_id": "user_17",
+    "text": "Greek yogurt, cottage cheese, eggs at every meal. Protein powder is fine but whole food first.",
+    "timestamp": "2024-04-03T10:26:00.000Z"
+  },
+  {
+    "message_id": "eab736e5-cc0c-43d7-9eee-5a9727ae6482",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_13",
+    "text": "My golden retriever keeps destroying furniture when I leave. Any separation anxiety tips?",
+    "timestamp": "2024-04-05T08:09:00.000Z"
+  },
+  {
+    "message_id": "f42c487b-9c5a-4818-b183-2f41099840ed",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_09",
+    "text": "Kong filled with frozen peanut butter. Buys me an hour. Also crate training helped our lab enormously.",
+    "timestamp": "2024-04-05T08:17:00.000Z"
+  },
+  {
+    "message_id": "e1f8c32a-4287-4d20-bf33-3a8935731505",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_04",
+    "text": "I'm a retired teacher and adopted a senior dog last year — best decision. Senior dogs are so calm.",
+    "timestamp": "2024-04-05T08:33:00.000Z"
+  },
+  {
+    "message_id": "d7cb74dc-e80e-4483-a3f3-5c1f32389d1b",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_13",
+    "text": "Anyone use a dog trainer for anxiety issues specifically?",
+    "timestamp": "2024-04-05T08:49:00.000Z"
+  },
+  {
+    "message_id": "05db2d8b-4d3e-4da6-84da-929be9972fa5",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_05",
+    "text": "Canine Good Citizen trainers specialize in behavioral issues. Look for a Certified Applied Animal Behaviorist.",
+    "timestamp": "2024-04-05T09:01:00.000Z"
+  },
+  {
+    "message_id": "5e5dc95b-4b5a-4fb5-ad9f-9932bcfa67be",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_20",
+    "text": "Our vet recommended DAP (dog appeasing pheromone) diffusers for our anxious rescue. Made a difference.",
+    "timestamp": "2024-04-05T09:07:00.000Z"
+  },
+  {
+    "message_id": "d601ec4e-d447-420b-86c4-81a8e8e595a6",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_13",
+    "text": "What food brands are people trusting? So confusing with all the recalls.",
+    "timestamp": "2024-04-05T09:23:00.000Z"
+  },
+  {
+    "message_id": "5957c3fb-ab1f-42a3-8a85-7a1a45a92372",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_09",
+    "text": "Stick to brands with AAFCO feeding trials: Hill's, Royal Canin, Purina Pro Plan are the most studied.",
+    "timestamp": "2024-04-05T09:41:00.000Z"
+  },
+  {
+    "message_id": "723cb5fe-431e-4b41-924b-4b21957e1895",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_04",
+    "text": "Any cat people? My cat is 15 and starting to show kidney issues. Tips for managing?",
+    "timestamp": "2024-04-05T09:49:00.000Z"
+  },
+  {
+    "message_id": "377090c7-b130-44af-bacb-dbd95c241b3d",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_05",
+    "text": "For senior cats with kidney issues — wet food is critical for hydration. Our vet prescribed Hill's k/d diet.",
+    "timestamp": "2024-04-05T09:57:00.000Z"
+  },
+  {
+    "message_id": "2345747f-fa52-4962-8f13-ece6f9bbaf63",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_20",
+    "text": "Sub-Q fluids at home for kidney cats is very manageable once you learn. Ask your vet to teach you.",
+    "timestamp": "2024-04-05T10:10:00.000Z"
+  },
+  {
+    "message_id": "6357d3d7-a205-4e5e-8822-42113f767cfc",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_13",
+    "text": "Best pet insurance recommendations? Just got a puppy and trying to decide.",
+    "timestamp": "2024-04-05T10:25:00.000Z"
+  },
+  {
+    "message_id": "f63a4fc8-ed91-4e55-8181-6dbd4ba5ee15",
+    "conversation_id": "c4f0325a-7b4d-40d4-8dbf-5cc50ed955cd",
+    "sender_id": "user_09",
+    "text": "Trupanion for serious illness coverage. Healthy Paws for value. Get it before any pre-existing conditions show up.",
+    "timestamp": "2024-04-05T10:31:00.000Z"
+  },
+  {
+    "message_id": "6bf6a5f3-5cbc-4803-a05f-c3bb06d8b2eb",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_13",
+    "text": "Book club next meeting — we're reading 'The Covenant of Water' by Abraham Verghese. Anyone read it?",
+    "timestamp": "2024-04-07T08:20:00.000Z"
+  },
+  {
+    "message_id": "0e09af01-e633-4e2f-8b2c-a70d8e7c7c4e",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_01",
+    "text": "On my list! Loved 'Cutting for Stone' by same author. Beautiful writing.",
+    "timestamp": "2024-04-07T08:31:00.000Z"
+  },
+  {
+    "message_id": "7cf0f32a-ceab-4313-a198-7d6c3a43912c",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_08",
+    "text": "Just finished 'Tomorrow and Tomorrow and Tomorrow' — genuinely one of the best novels I've read in years.",
+    "timestamp": "2024-04-07T08:36:00.000Z"
+  },
+  {
+    "message_id": "38ec663d-0aeb-48d5-bfa6-2b06ee1c8cfa",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_12",
+    "text": "That one destroyed me emotionally in the best way. The friendship dynamic is so real.",
+    "timestamp": "2024-04-07T08:41:00.000Z"
+  },
+  {
+    "message_id": "e713e954-6af3-49b9-8952-88aae21aafce",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_07",
+    "text": "As a travel blogger I love 'A Year in Provence' by Peter Mayle. Every page makes you want to go to France.",
+    "timestamp": "2024-04-07T08:56:00.000Z"
+  },
+  {
+    "message_id": "2fa2905f-4162-4666-83e6-8d1a0e432ed3",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_13",
+    "text": "What's everyone's non-fiction recommendations? I want to read more this year.",
+    "timestamp": "2024-04-07T09:09:00.000Z"
+  },
+  {
+    "message_id": "63e2af97-d25a-4430-9779-ae9c242a2b67",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_08",
+    "text": "Atomic Habits is overrecommended but genuinely works. Also 'The Psychology of Money' by Morgan Housel.",
+    "timestamp": "2024-04-07T09:22:00.000Z"
+  },
+  {
+    "message_id": "7b5075ea-cb59-462c-afe5-d1ae6402571f",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_01",
+    "text": "Braiding Sweetgrass by Robin Wall Kimmerer. Changed how I see nature. Incredibly moving.",
+    "timestamp": "2024-04-07T09:32:00.000Z"
+  },
+  {
+    "message_id": "3e4ec451-cf6d-4b8e-ac36-2e0d930e4e6c",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_12",
+    "text": "Spare time lately I've been doing audiobooks on commute. Audible subscription has been worth every cent.",
+    "timestamp": "2024-04-07T09:41:00.000Z"
+  },
+  {
+    "message_id": "4f1a8fe0-d665-4550-bfd0-66d99bc8c9f4",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_07",
+    "text": "I read 40+ books a year. Secret: Libby app + local library card. Completely free.",
+    "timestamp": "2024-04-07T10:00:00.000Z"
+  },
+  {
+    "message_id": "278d7b11-ed84-402e-9950-8d08b4508847",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_13",
+    "text": "Genre fiction recommendations? Looking for something fun, not literary.",
+    "timestamp": "2024-04-07T10:09:00.000Z"
+  },
+  {
+    "message_id": "267f6279-7859-4a8f-bc70-79cee0b9f9a6",
+    "conversation_id": "cb752379-0cfe-4b66-a3fe-5d9202b182cd",
+    "sender_id": "user_08",
+    "text": "The Name of the Wind by Patrick Rothfuss for fantasy. The Thursday Murder Club for cozy mystery.",
+    "timestamp": "2024-04-07T10:14:00.000Z"
+  },
+  {
+    "message_id": "7f03bd24-bcd8-4d41-bac4-1d8505727a61",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_04",
+    "text": "Spring planting season! What's everyone putting in their garden this year?",
+    "timestamp": "2024-04-09T08:15:00.000Z"
+  },
+  {
+    "message_id": "99e6fcb3-8982-4485-8940-5d00fb95606e",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_11",
+    "text": "Starting a kitchen herb garden — basil, rosemary, thyme, mint. As a nutritionist I want fresh herbs always.",
+    "timestamp": "2024-04-09T08:30:00.000Z"
+  },
+  {
+    "message_id": "4ac908ff-f0c9-4983-8d30-b5e6036de3d0",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_19",
+    "text": "Raised beds are the best investment I made in my backyard. Cedar boards, 12 inches deep, compost mix.",
+    "timestamp": "2024-04-09T08:38:00.000Z"
+  },
+  {
+    "message_id": "3ca77a7c-4f6f-4ed1-ba8d-176f053e8a5e",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_04",
+    "text": "I've been composting for 3 years. Zero kitchen scraps to waste and my soil is incredible now.",
+    "timestamp": "2024-04-09T08:55:00.000Z"
+  },
+  {
+    "message_id": "2ac10bc6-32ce-4d99-80a0-035555eb3bb4",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_05",
+    "text": "New homeowner here — what's the lowest maintenance way to have a nice looking front yard?",
+    "timestamp": "2024-04-09T09:04:00.000Z"
+  },
+  {
+    "message_id": "74a19fb0-725f-4819-ab2a-e1150f4fd8dc",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_19",
+    "text": "Native plants. They're adapted to your climate, drought resistant, need almost no fertilizer, attract pollinators.",
+    "timestamp": "2024-04-09T09:22:00.000Z"
+  },
+  {
+    "message_id": "2ef70aca-937d-452b-af06-1cda438bd960",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_09",
+    "text": "Raised beds with drip irrigation on a timer. Set it and forget it. I harvest tomatoes all summer.",
+    "timestamp": "2024-04-09T09:39:00.000Z"
+  },
+  {
+    "message_id": "f4bf810d-56a1-436d-9917-ba0cf3848ebe",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_04",
+    "text": "Tomatoes — who's starting from seed vs buying transplants?",
+    "timestamp": "2024-04-09T09:52:00.000Z"
+  },
+  {
+    "message_id": "dd289e72-a511-438e-b7aa-ef97896523c3",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_11",
+    "text": "Start from seed for heirloom varieties you can't find at nurseries. Buy transplants for basics.",
+    "timestamp": "2024-04-09T10:02:00.000Z"
+  },
+  {
+    "message_id": "247488a2-4210-4f31-a515-8eef42f324c5",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_19",
+    "text": "Square foot gardening method changed my yield. Intensive planting, zero wasted space.",
+    "timestamp": "2024-04-09T10:13:00.000Z"
+  },
+  {
+    "message_id": "2de9e95b-692e-4a99-9f68-729e3c075d55",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_05",
+    "text": "Any resources for learning? I've killed every plant I've tried.",
+    "timestamp": "2024-04-09T10:31:00.000Z"
+  },
+  {
+    "message_id": "2192d085-3ae1-4466-be2a-ae3eeae04c98",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_04",
+    "text": "Epic Gardening YouTube channel. Also 'The Vegetable Gardener's Bible' by Edward Smith is definitive.",
+    "timestamp": "2024-04-09T10:42:00.000Z"
+  },
+  {
+    "message_id": "4dbfe603-3c1d-44b5-9c51-d65b8e529b92",
+    "conversation_id": "f2ded378-9089-430b-87ad-fa02772218ac",
+    "sender_id": "user_09",
+    "text": "Start with zucchini. Basically impossible to kill and incredibly productive.",
+    "timestamp": "2024-04-09T10:55:00.000Z"
+  },
+  {
+    "message_id": "92ee95e7-5e4c-4d22-98bc-043df61ad36d",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_08",
+    "text": "Is anyone else watching the market volatility? Trying to figure out if now is a buy opportunity.",
+    "timestamp": "2024-04-11T08:06:00.000Z"
+  },
+  {
+    "message_id": "220826e6-d46d-4eae-b8f7-8f9b1a930108",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_10",
+    "text": "As a real estate agent I see a different volatility — housing market is cooling but still elevated.",
+    "timestamp": "2024-04-11T08:22:00.000Z"
+  },
+  {
+    "message_id": "8bf7d71d-0e0b-47dd-b315-2f974634f1f6",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_02",
+    "text": "I just stick to index funds and don't look at the market. Time in market > timing the market.",
+    "timestamp": "2024-04-11T08:37:00.000Z"
+  },
+  {
+    "message_id": "b60ba69a-6cce-4eaf-b2c0-1199cb8cb158",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_16",
+    "text": "Remote work savings has been real. Living in Portugal, saving 40% more than I was in NYC.",
+    "timestamp": "2024-04-11T08:42:00.000Z"
+  },
+  {
+    "message_id": "2e7be022-618a-48a0-b492-008c6d437326",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_12",
+    "text": "As a college student — anyone have advice on starting to invest with small amounts?",
+    "timestamp": "2024-04-11T08:49:00.000Z"
+  },
+  {
+    "message_id": "72967926-a31a-459e-8398-b5fb4a640a4e",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_08",
+    "text": "Fidelity Zero funds have no minimums and zero expense ratios. Start with $1 if you want.",
+    "timestamp": "2024-04-11T09:00:00.000Z"
+  },
+  {
+    "message_id": "e65d601e-240c-4d02-9106-d9f011e64b9f",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_02",
+    "text": "Roth IRA first if you're young. Tax-free growth is incredible over 40 years. Max it out.",
+    "timestamp": "2024-04-11T09:08:00.000Z"
+  },
+  {
+    "message_id": "e7e210e6-1313-4a0b-9a72-b235af6cdc85",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_10",
+    "text": "House hacking — buying a multi-unit, living in one unit, renting others. Best wealth building I know.",
+    "timestamp": "2024-04-11T09:25:00.000Z"
+  },
+  {
+    "message_id": "4a9999e3-d218-47fb-8fb7-de272107632a",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_16",
+    "text": "Anyone doing geographic arbitrage seriously? Living abroad to stretch income further?",
+    "timestamp": "2024-04-11T09:30:00.000Z"
+  },
+  {
+    "message_id": "ff25a8d2-c272-4ba9-b9d8-ae74a84ed2d3",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_08",
+    "text": "The FIRE movement is interesting but seems extreme. I want to actually enjoy my 30s and 40s.",
+    "timestamp": "2024-04-11T09:49:00.000Z"
+  },
+  {
+    "message_id": "df98e5d5-5e0f-4e47-a9ac-3277edc28918",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_02",
+    "text": "Barista FIRE is more realistic — semi-retire with part-time work you enjoy. Best of both worlds.",
+    "timestamp": "2024-04-11T10:05:00.000Z"
+  },
+  {
+    "message_id": "ef64cdd2-4dfb-4737-9643-1118f9074a76",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_12",
+    "text": "What budgeting app actually works? I've tried Mint and YNAB.",
+    "timestamp": "2024-04-11T10:11:00.000Z"
+  },
+  {
+    "message_id": "48d4e876-3675-4647-84d2-a1398bcdb2a7",
+    "conversation_id": "b772d983-75c1-43c7-9f1a-8495b363495e",
+    "sender_id": "user_10",
+    "text": "YNAB changed my financial life. Steep learning curve but worth it. It's a mindset shift.",
+    "timestamp": "2024-04-11T10:27:00.000Z"
+  },
+  {
+    "message_id": "6816bdf8-2a1f-42dd-9ad0-bb7fb13e4754",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_13",
+    "text": "Has anyone watched 'Succession'? My partner and I just started and we're already obsessed.",
+    "timestamp": "2024-04-13T08:12:00.000Z"
+  },
+  {
+    "message_id": "083f8d16-e791-415f-aa49-bd1d25b50dad",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_08",
+    "text": "Succession is one of the greatest shows ever made. Season 3 finale will ruin you.",
+    "timestamp": "2024-04-13T08:25:00.000Z"
+  },
+  {
+    "message_id": "3db0515c-060c-4971-a183-df81c2e8ac78",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_07",
+    "text": "The Bear on Hulu is the most stressful and brilliant show about cooking/restaurants I've ever seen.",
+    "timestamp": "2024-04-13T08:40:00.000Z"
+  },
+  {
+    "message_id": "41b3df2f-f4b2-489d-ae95-2d5ed74d4986",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_14",
+    "text": "The Bear is visually stunning too. As a photographer I love the single-take episode in season 1.",
+    "timestamp": "2024-04-13T08:46:00.000Z"
+  },
+  {
+    "message_id": "6a7adf8e-5d67-4303-8187-2c08084e7f19",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_12",
+    "text": "For movie recs — anything that absolutely destroyed you emotionally this year?",
+    "timestamp": "2024-04-13T08:53:00.000Z"
+  },
+  {
+    "message_id": "afc3a945-d4ee-495e-ab1f-1616a10f0e91",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_13",
+    "text": "Past Lives. I cried twice. Beautiful quiet film about love and what could have been.",
+    "timestamp": "2024-04-13T09:10:00.000Z"
+  },
+  {
+    "message_id": "35e911f2-4d42-4339-bd4b-db323ad5554a",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_08",
+    "text": "Oppenheimer on IMAX. Even if you think you won't like a 3-hour historical film, go. Changed my perspective.",
+    "timestamp": "2024-04-13T09:20:00.000Z"
+  },
+  {
+    "message_id": "89dc7a5e-b3ed-4068-a1cd-ba6a3b56124e",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_07",
+    "text": "For documentaries: 'Free Solo' is still the most tense thing I've ever watched.",
+    "timestamp": "2024-04-13T09:39:00.000Z"
+  },
+  {
+    "message_id": "45b8e58d-566a-4bd7-8cce-5e3d2610c9b9",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_14",
+    "text": "100% on Free Solo. I'm a climber and watching that was deeply uncomfortable.",
+    "timestamp": "2024-04-13T09:54:00.000Z"
+  },
+  {
+    "message_id": "c7484309-7e05-416a-be58-bdfe6f099026",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_12",
+    "text": "Best streaming service right now? Feeling like I'm paying for too many.",
+    "timestamp": "2024-04-13T10:00:00.000Z"
+  },
+  {
+    "message_id": "85a744cb-187e-454d-917c-2a0a718e98a5",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_13",
+    "text": "Rotate them. Subscribe, binge one show, cancel, subscribe to next. I save $40/month.",
+    "timestamp": "2024-04-13T10:05:00.000Z"
+  },
+  {
+    "message_id": "afa39c3d-5f99-4cff-b089-5e524abf2a7f",
+    "conversation_id": "f62b7f42-d634-4a83-81dc-25454c454c31",
+    "sender_id": "user_08",
+    "text": "HBO Max has the best catalog per dollar if you had to pick one. Letterboxd app for tracking movies.",
+    "timestamp": "2024-04-13T10:19:00.000Z"
+  },
+  {
+    "message_id": "dc99d0fc-b767-402c-bcaf-01a7cc63f82f",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_16",
+    "text": "Anyone been to any good live music recently? Looking for inspiration for gigs while traveling.",
+    "timestamp": "2024-04-15T08:05:00.000Z"
+  },
+  {
+    "message_id": "eff54bb5-afff-4f48-9a88-145113a38f3c",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_14",
+    "text": "Photographed a Bon Iver show last month — absolutely transcendent live. Very different from recorded.",
+    "timestamp": "2024-04-15T08:18:00.000Z"
+  },
+  {
+    "message_id": "fa56b4e5-efbe-48d6-bd77-1a8fff9fe392",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_07",
+    "text": "Electronic music scene in Berlin is something else. Berghain was life-changing even though I waited 4 hours.",
+    "timestamp": "2024-04-15T08:24:00.000Z"
+  },
+  {
+    "message_id": "c5ec8e6f-e292-46a6-a040-07860949d491",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_08",
+    "text": "Austin City Limits festival is worth it every year. Lineup diversity is incredible.",
+    "timestamp": "2024-04-15T08:36:00.000Z"
+  },
+  {
+    "message_id": "2fcf0050-7f4c-4bb2-84cb-a236c5c21093",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_03",
+    "text": "I teach Pilates and music is everything in my classes. Really matters for energy and rhythm.",
+    "timestamp": "2024-04-15T08:49:00.000Z"
+  },
+  {
+    "message_id": "6660e036-4271-48db-9948-919ec052622e",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_16",
+    "text": "What are people listening to for focus/work? I need a new playlist.",
+    "timestamp": "2024-04-15T08:57:00.000Z"
+  },
+  {
+    "message_id": "50f55901-1687-4be3-9a34-f8f2e0e72eea",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_14",
+    "text": "Brian Eno's ambient works for deep focus. Also Lofi Girl on YouTube is a cliché but it works.",
+    "timestamp": "2024-04-15T09:08:00.000Z"
+  },
+  {
+    "message_id": "d7e71965-68da-4816-a758-aeed6f030e6a",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_08",
+    "text": "For coding/focus I use Focus@Will — scientifically designed music that maintains attention spans.",
+    "timestamp": "2024-04-15T09:20:00.000Z"
+  },
+  {
+    "message_id": "520c1d8b-6fcd-4d1b-a941-9043bccb38ba",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_07",
+    "text": "I've been rediscovering jazz. Miles Davis Kind of Blue is still the greatest album ever made.",
+    "timestamp": "2024-04-15T09:25:00.000Z"
+  },
+  {
+    "message_id": "e26b36f2-20d6-445f-9d68-b3e01f3b1909",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_03",
+    "text": "For workout music — hyperpop and hyper-specific Spotify workout playlists at 150+ BPM.",
+    "timestamp": "2024-04-15T09:33:00.000Z"
+  },
+  {
+    "message_id": "292326cb-bc83-4a05-bc7d-78b718530673",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_16",
+    "text": "Spotify Wrapped this year told me I'm in the top 0.1% of Radiohead listeners. I have no regrets.",
+    "timestamp": "2024-04-15T09:40:00.000Z"
+  },
+  {
+    "message_id": "3cd7c9b6-579a-432d-81d9-19f9f2f4f557",
+    "conversation_id": "6ccd78ee-e6b4-4f42-aa92-fb80810a9c3e",
+    "sender_id": "user_14",
+    "text": "Concerts as experiences — I always buy floor/GA tickets now. The energy vs seated is incomparable.",
+    "timestamp": "2024-04-15T09:55:00.000Z"
+  },
+  {
+    "message_id": "399f426b-acf1-448d-af5c-9df87a87afb1",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_09",
+    "text": "Screen time rules for toddlers — how strict is everyone? I feel like I'm failing constantly.",
+    "timestamp": "2024-04-17T08:17:00.000Z"
+  },
+  {
+    "message_id": "8ec6e890-047e-452d-802e-223d387f7bb6",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_06",
+    "text": "As a pediatrician: AAP recommends zero screen before 18 months except video calls. After 2, 1 hr/day quality content.",
+    "timestamp": "2024-04-17T08:30:00.000Z"
+  },
+  {
+    "message_id": "410ac0e8-40fd-435f-a3ba-01c09bace86f",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_17",
+    "text": "Quality matters more than quantity. PBS Kids and Sesame Street are genuinely educational.",
+    "timestamp": "2024-04-17T08:40:00.000Z"
+  },
+  {
+    "message_id": "d52916b8-f9ce-4992-837a-2a567945c6dc",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_04",
+    "text": "As a retired teacher: reading aloud to kids is the single most powerful thing you can do for their development.",
+    "timestamp": "2024-04-17T08:52:00.000Z"
+  },
+  {
+    "message_id": "51c36df8-786c-4585-9884-93db50839a1f",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_09",
+    "text": "Starting solids tips? My 6-month-old is ready and I'm terrified of allergens.",
+    "timestamp": "2024-04-17T09:06:00.000Z"
+  },
+  {
+    "message_id": "fb972bb6-44ea-4c08-ad64-8f90a9888679",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_06",
+    "text": "Early introduction of common allergens (peanuts, eggs) actually reduces allergy risk. LEAP study proved it.",
+    "timestamp": "2024-04-17T09:14:00.000Z"
+  },
+  {
+    "message_id": "53b8d37e-8308-42e2-b29d-4d29c9b0f04b",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_17",
+    "text": "Baby-led weaning has fantastic evidence behind it. Less purée stress, better self-regulation later.",
+    "timestamp": "2024-04-17T09:28:00.000Z"
+  },
+  {
+    "message_id": "88d300f5-af4f-4aaa-9d23-1c4a34cde756",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_13",
+    "text": "Sleep training — what worked for your families? We're at week 3 of no sleep.",
+    "timestamp": "2024-04-17T09:36:00.000Z"
+  },
+  {
+    "message_id": "e8b80d25-8d4d-41b2-b786-27874cfb9ebf",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_06",
+    "text": "Ferber method at 6 months worked for both my kids. Hard for 3 nights, then transformed.",
+    "timestamp": "2024-04-17T09:51:00.000Z"
+  },
+  {
+    "message_id": "d36ca220-f891-4867-b953-02d18cd02d6d",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_17",
+    "text": "Every child is different. What works matters less than being consistent. Pick a method and commit.",
+    "timestamp": "2024-04-17T10:00:00.000Z"
+  },
+  {
+    "message_id": "05876818-11a5-4b64-8811-8b01a9a3a886",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_04",
+    "text": "Grandparent perspective: enjoy every stage, even the exhausting ones. It goes so fast.",
+    "timestamp": "2024-04-17T10:17:00.000Z"
+  },
+  {
+    "message_id": "63b88530-a926-4156-ad57-f3bad4b91af6",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_09",
+    "text": "What's the best diaper bag? Currently using a backpack that's falling apart.",
+    "timestamp": "2024-04-17T10:30:00.000Z"
+  },
+  {
+    "message_id": "e2462222-006d-4f6c-a075-4a1ce4a1f333",
+    "conversation_id": "4803a4d9-a766-4be2-8a4a-e16fa20837af",
+    "sender_id": "user_17",
+    "text": "Freshly Picked or Skip Hop for style + function. Get one with insulated pockets for bottles.",
+    "timestamp": "2024-04-17T10:42:00.000Z"
+  },
+  {
+    "message_id": "256dc85d-2ba7-487a-8fb8-54e9fdd706fd",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_10",
+    "text": "Anyone going to the Austin Food & Wine Festival this weekend? Worth the ticket price?",
+    "timestamp": "2024-04-19T08:20:00.000Z"
+  },
+  {
+    "message_id": "27cccb8f-2793-4f9f-a605-e66d7134d0c9",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_01",
+    "text": "Went last year — the chef demonstrations are the best part. Skip the grand tasting, it's too crowded.",
+    "timestamp": "2024-04-19T08:32:00.000Z"
+  },
+  {
+    "message_id": "6b5f549e-f0db-46ca-a9dc-42cefd323046",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_15",
+    "text": "My bakery has a booth this year! Come find me — I'll be near the Dessert Pavilion.",
+    "timestamp": "2024-04-19T08:44:00.000Z"
+  },
+  {
+    "message_id": "2c7a0389-eaa2-4064-9f91-562de7c3fbea",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_08",
+    "text": "SXSW is overwhelming but I always find amazing things in the smaller Interactive sessions.",
+    "timestamp": "2024-04-19T08:49:00.000Z"
+  },
+  {
+    "message_id": "bcd82d21-e492-4b1a-ac06-7d2edf36f5ac",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_10",
+    "text": "For locals: the Barton Springs swim this summer has been incredible. Water is crystal clear.",
+    "timestamp": "2024-04-19T08:56:00.000Z"
+  },
+  {
+    "message_id": "65b17907-7f25-40ac-99d8-dc3bc2e7dd1d",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_05",
+    "text": "New homeowner question: what neighborhood events/associations are actually worth joining?",
+    "timestamp": "2024-04-19T09:09:00.000Z"
+  },
+  {
+    "message_id": "e66280c0-2437-4e02-940a-ad1e1514216d",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_01",
+    "text": "Nextdoor is great for practical info. Most neighborhood associations are fine if you want to meet people.",
+    "timestamp": "2024-04-19T09:29:00.000Z"
+  },
+  {
+    "message_id": "4ebd3cb7-66e4-48c1-b4bb-087722bec207",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_10",
+    "text": "Hyde Park neighborhood association is very active and has great summer block parties.",
+    "timestamp": "2024-04-19T09:36:00.000Z"
+  },
+  {
+    "message_id": "2da5fec4-7249-420f-9a84-21a60b186583",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_08",
+    "text": "Farmers markets — which Austin ones are actually worth waking up early for?",
+    "timestamp": "2024-04-19T09:55:00.000Z"
+  },
+  {
+    "message_id": "62879874-5e2c-4d24-9469-7f69cf0c5ffb",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_15",
+    "text": "SFC Farmers Market at Republic Square Park. Best produce vendors, great prepared food, musicians.",
+    "timestamp": "2024-04-19T10:12:00.000Z"
+  },
+  {
+    "message_id": "06bd7294-627d-41c1-8850-314e0f7510a3",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_01",
+    "text": "Mueller Farmers Market for families — there's a playground right there so kids can run.",
+    "timestamp": "2024-04-19T10:29:00.000Z"
+  },
+  {
+    "message_id": "435fe2fa-6b0d-4e23-a457-9c2cd24d18f6",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_05",
+    "text": "Anyone know of volunteer opportunities that are accessible for busy working adults?",
+    "timestamp": "2024-04-19T10:37:00.000Z"
+  },
+  {
+    "message_id": "0f337252-43ba-4eca-aa25-53c022aaa4a3",
+    "conversation_id": "775ca5c9-8381-4807-bce8-d000045c8726",
+    "sender_id": "user_10",
+    "text": "Austin Parks Foundation does trail workdays every Saturday 8-11am. Easy to drop in, huge impact.",
+    "timestamp": "2024-04-19T10:48:00.000Z"
+  }
+]

@@ -1,4 +1,4 @@
-# FinitePaths Datastorage Service
+# Deju Datastorage Service
 
 A REST API service for storing and retrieving chat messages in PostgreSQL.
 
@@ -19,7 +19,7 @@ A REST API service for storing and retrieving chat messages in PostgreSQL.
 ### 1. Create Database
 
 ```bash
-createdb finitepaths
+createdb deju
 ```
 
 ### 2. Install Dependencies

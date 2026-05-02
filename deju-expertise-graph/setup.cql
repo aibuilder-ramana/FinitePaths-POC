@@ -1,5 +1,5 @@
 // ============================================================
-// FinitePath-ExpertiseGraph - Privacy-First Expertise Graph
+// Deju-ExpertiseGraph - Privacy-First Expertise Graph
 // Neo4j Setup Script
 // ============================================================
 
@@ -271,7 +271,7 @@ CREATE (e)-[:HAS_SCOPE]->(s);
 
 PRINT "";
 PRINT "================================================";
-PRINT "  FinitePath-ExpertiseGraph Setup Complete!";
+PRINT "  Deju-ExpertiseGraph Setup Complete!";
 PRINT "================================================";
 PRINT "";
 PRINT "Nodes created:";

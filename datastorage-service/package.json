@@ -1,7 +1,7 @@
 {
-  "name": "finitepaths-datastorage-service",
+  "name": "deju-datastorage-service",
   "version": "1.0.0",
-  "description": "Datastorage service for FinitePaths - stores chat messages in PostgreSQL",
+  "description": "Datastorage service for Deju - stores chat messages in PostgreSQL",
   "main": "src/services/index.js",
   "scripts": {
     "start": "node src/services/index.js",
@@ -9,7 +9,7 @@
     "test": "jest --coverage",
     "migrate": "node src/migrations/run.js"
   },
-  "keywords": ["finitepaths", "chat", "datastorage", "postgresql"],
+  "keywords": ["deju", "chat", "datastorage", "postgresql"],
   "author": "",
   "license": "MIT",
   "dependencies": {

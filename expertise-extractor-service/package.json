@@ -1,17 +1,16 @@
 {
-  "name": "extract-semantic-events-service",
+  "name": "expertise-extractor-service",
   "version": "1.0.0",
-  "description": "Extract semantic events from messages using Groq LLM",
+  "description": "Extract expertise from semantic events and ingest into Neo4j",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "extract": "node src/index.js"
+    "process": "node src/index.js"
   },
   "keywords": [
-    "llm",
-    "semantic",
-    "events",
-    "groq"
+    "expertise",
+    "neo4j",
+    "knowledge-graph"
   ],
   "author": "",
   "license": "MIT",
@@ -19,6 +18,7 @@
     "@anthropic-ai/sdk": "^0.82.0",
     "axios": "^1.6.2",
     "dotenv": "^16.3.1",
+    "neo4j-driver": "^5.15.0",
     "uuid": "^9.0.0"
   }
 }

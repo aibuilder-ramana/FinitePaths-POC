@@ -1,19 +1,19 @@
-# FinitePaths-POC
+# Deju-POC
 
-Proof of Concept projects for FinitePaths application.
+Proof of Concept projects for Deju application.
 
 ## Projects
 
-### 1. FinitePath-ExpertiseGraph
+### 1. Deju-ExpertiseGraph
 Privacy-first expertise graph using Neo4j.
 
-**Location:** `finitepath-expertise-graph/`
+**Location:** `deju-expertise-graph/`
 
 **Setup:**
 1. Open Neo4j Desktop
-2. Create new database: `FinitePath-ExpertiseGraph`
-3. Run `finitepath-expertise-graph/setup.cql` in Neo4j Browser
-4. Run example queries from `finitepath-expertise-graph/queries.cql`
+2. Create new database: `Deju-ExpertiseGraph`
+3. Run `deju-expertise-graph/setup.cql` in Neo4j Browser
+4. Run example queries from `deju-expertise-graph/queries.cql`
 
 ### 2. Datastorage Service
 REST API service for storing chat messages in PostgreSQL.
@@ -21,7 +21,7 @@ REST API service for storing chat messages in PostgreSQL.
 **Location:** `datastorage-service/`
 
 **Setup:**
-1. Create PostgreSQL database: `finitepaths`
+1. Create PostgreSQL database: `deju`
 2. Install dependencies: `npm install`
 3. Configure environment: `cp .env.example .env`
 4. Run migrations: `npm run migrate`

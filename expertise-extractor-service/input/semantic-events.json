@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-04-06T17:38:04.154Z",
+  "metadata": {
+    "input_file": "./input/messages.json",
+    "batch_size": 20,
+    "model": "llama-3.3-70b-versatile",
+    "processing_stats": {
+      "totalMessages": 8,
+      "totalEventsExtracted": 8,
+      "messagesWithEvents": 8,
+      "apiCalls": 1,
+      "durationSeconds": 2.55,
+      "eventsPerMessage": "1.00"
+    },
+    "total_events": 8
+  },
+  "events": [
+    {
+      "event_id": "21f625b0-2e52-4204-9904-611cc1f7badf",
+      "user_id": "user_A",
+      "event_type": "travel_experience",
+      "entities": [
+        "Europe"
+      ],
+      "attributes": {
+        "sentiment": {
+          "Europe": "neutral"
+        },
+        "context": "Planning a trip to Europe",
+        "actionable": false
+      },
+      "confidence": 0.8,
+      "source_message_id": "msg_001",
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "event_id": "862e2c05-b727-4f95-9f9f-00ad28204d62",
+      "user_id": "user_B",
+      "event_type": "travel_recommendation",
+      "entities": [
+        "Italy",
+        "France",
+        "Rome",
+        "Florence",
+        "Colosseum"
+      ],
+      "attributes": {
+        "sentiment": {
+          "Italy": "positive",
+          "France": "neutral",
+          "Rome": "positive",
+          "Florence": "positive",
+          "Colosseum": "positive"
+        },
+        "context": "Recommendations for traveling to Italy and France",
+        "actionable": true
+      },
+      "confidence": 0.9,
+      "source_message_id": "msg_002",
+      "timestamp": "2024-01-15T11:00:00Z"
+    },
+    {
+      "event_id": "39c2ef46-a2f7-45d7-8cdf-c52fb51ae446",
+      "user_id": "user_C",
+      "event_type": "travel_experience",
+      "entities": [
+        "Prague"
+      ],
+      "attributes": {
+        "sentiment": {
+          "Prague": "neutral"
+        },
+        "context": "Booking an Airbnb in Prague",
+        "actionable": false
+      },
+      "confidence": 0.7,
+      "source_message_id": "msg_003",
+      "timestamp": "2024-01-15T14:00:00Z"
+    },
+    {
+      "event_id": "fdc00f92-0f19-4512-8be8-9a1df5f74f5e",
+      "user_id": "user_A",
+      "event_type": "healthcare_recommendation",
+      "entities": [
+        "pediatrician",
+        "Downtown Austin"
+      ],
+      "attributes": {
+        "sentiment": {
+          "pediatrician": "neutral",
+          "Downtown Austin": "neutral"
+        },
+        "context": "Looking for a pediatrician near Downtown Austin",
+        "actionable": false
+      },
+      "confidence": 0.8,
+      "source_message_id": "msg_004",
+      "timestamp": "2024-01-16T09:00:00Z"
+    },
+    {
+      "event_id": "53271ebc-be82-474f-b66c-64183c65b47b",
+      "user_id": "user_D",
+      "event_type": "healthcare_recommendation",
+      "entities": [
+        "Dr. Kim",
+        "Austin"
+      ],
+      "attributes": {
+        "sentiment": {
+          "Dr. Kim": "positive",
+          "Austin": "neutral"
+        },
+        "context": "Recommendation for a pediatrician in Austin",
+        "actionable": true
+      },
+      "confidence": 0.9,
+      "source_message_id": "msg_005",
+      "timestamp": "2024-01-16T09:30:00Z"
+    },
+    {
+      "event_id": "af1f659a-62ae-4d59-83ce-b80a10cd2ef5",
+      "user_id": "user_A",
+      "event_type": "service_recommendation",
+      "entities": [
+        "home contractor",
+        "kitchen remodel"
+      ],
+      "attributes": {
+        "sentiment": {
+          "home contractor": "neutral",
+          "kitchen remodel": "neutral"
+        },
+        "context": "Looking for a home contractor for a kitchen remodel",
+        "actionable": false
+      },
+      "confidence": 0.8,
+      "source_message_id": "msg_006",
+      "timestamp": "2024-01-17T10:00:00Z"
+    },
+    {
+      "event_id": "9716f79e-eac2-452b-aef5-0caf2bc0f371",
+      "user_id": "user_E",
+      "event_type": "service_recommendation",
+      "entities": [
+        "Carlos"
+      ],
+      "attributes": {
+        "sentiment": {
+          "Carlos": "positive"
+        },
+        "context": "Recommendation for a home contractor",
+        "actionable": true
+      },
+      "confidence": 0.9,
+      "source_message_id": "msg_007",
+      "timestamp": "2024-01-17T10:30:00Z"
+    },
+    {
+      "event_id": "7053a562-945f-4ab1-8512-7b4d05110a2a",
+      "user_id": "user_F",
+      "event_type": "parenting_tip",
+      "entities": [
+        "teaching a 6-year-old to read"
+      ],
+      "attributes": {
+        "sentiment": {
+          "teaching a 6-year-old to read": "neutral"
+        },
+        "context": "Looking for ways to teach a 6-year-old to read",
+        "actionable": false
+      },
+      "confidence": 0.7,
+      "source_message_id": "msg_008",
+      "timestamp": "2024-01-18T08:00:00Z"
+    }
+  ]
+}

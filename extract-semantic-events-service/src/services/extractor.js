@@ -123,22 +123,29 @@ ${messagesText}
       events = [events];
     }
 
+    // Build a lookup map so we can attach source text to each event
+    const msgLookup = new Map(batch.map(m => [m.message_id, m]));
+
     // Assign event_id and validate
-    return events.map(event => ({
-      event_id: uuidv4(),
-      user_id: event.user_id || null,
-      event_type: event.event_type || 'general_knowledge',
-      entities: Array.isArray(event.entities) ? event.entities : [],
-      attributes: {
-        sentiment: event.attributes?.sentiment || {},
-        context: event.attributes?.context || '',
-        actionable: event.attributes?.actionable ?? false,
-        ...event.attributes,
-      },
-      confidence: typeof event.confidence === 'number' ? Math.round(event.confidence * 100) / 100 : 0.5,
-      source_message_id: event.source_message_id || null,
-      timestamp: event.timestamp || null,
-    })).filter(e => e.event_type); // Filter out events without event_type
+    return events.map(event => {
+      const sourceMsg = msgLookup.get(event.source_message_id) || null;
+      return {
+        event_id: uuidv4(),
+        user_id: event.user_id || null,
+        event_type: event.event_type || 'general_knowledge',
+        entities: Array.isArray(event.entities) ? event.entities : [],
+        attributes: {
+          sentiment: event.attributes?.sentiment || {},
+          context: event.attributes?.context || '',
+          actionable: event.attributes?.actionable ?? false,
+          ...event.attributes,
+        },
+        confidence: typeof event.confidence === 'number' ? Math.round(event.confidence * 100) / 100 : 0.5,
+        source_message_id: event.source_message_id || null,
+        source_text: sourceMsg?.text || null,  // original message text for explainability
+        timestamp: event.timestamp || sourceMsg?.timestamp || null,
+      };
+    }).filter(e => e.event_type);
   }
 
   /**

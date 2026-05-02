@@ -87,7 +87,7 @@ app.use((err, req, res, next) => {
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`\n🚀 FinitePaths Datastorage Service`);
+  console.log(`\n🚀 Deju Datastorage Service`);
   console.log(`   Server running on port ${PORT}`);
   console.log(`   Health check: http://localhost:${PORT}/health`);
   console.log(`   API base: http://localhost:${PORT}/api\n`);
